@@ -1,0 +1,32 @@
+{
+    "name": "OdiSwap Extended",
+    "timestamp": "2023-07-22T06:12:02.617Z",
+    "version": {
+      "major": 2,
+      "minor": 16,
+      "patch": 151
+    },
+    "logoURI": "https://pancakeswap.finance/logo.png",
+    "keywords": [
+      "pancakeswap",
+      "extended"
+    ],
+    "tokens": [
+      {
+        "name": "ODI Token",
+        "symbol": "ODI",
+        "address": "0xf62AE76110A581A3fF0C3051ABB264bbDA3777bd",
+        "chainId": 8217,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+      },
+      {
+        "name": "oUSDT",
+        "symbol": "oUSDT",
+        "address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+        "chainId": 56,
+        "decimals": 6,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
+      }
+    ]
+  }
