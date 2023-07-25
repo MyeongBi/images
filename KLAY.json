@@ -24,7 +24,7 @@
         "name": "oUSDT",
         "symbol": "oUSDT",
         "address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
-        "chainId": 56,
+        "chainId": 8217,
         "decimals": 6,
         "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
       }
